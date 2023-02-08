@@ -1,0 +1,16 @@
+id: I9D04D4CE
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:02:37.393010
+last_modified: 2023-02-08 15:02:37.393106
+source_metadata:
+  title: Dīrghāgama, sūtras no. 35-41
+  language: bo
+bases:
+  87CB:
+    base_file: 87CB.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

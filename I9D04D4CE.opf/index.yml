@@ -1,0 +1,11 @@
+id: 7cc43c7dddb240588acc91d30d034428
+annotation_type: index
+revision: '00001'
+annotations:
+  6f9f027f589e4b48b2e1bf87e0058301:
+    base: 87CB.txt
+    Chapters:
+    - title: ''
+      span:
+        start: 0
+        end: 10
